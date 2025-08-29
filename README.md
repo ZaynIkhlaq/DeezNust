@@ -8,6 +8,3 @@ Open a PR if you encounter any bugs.
 
 Head over to [the site](https://www.nutslms.com/) to download and try out the extension.
 
-## Features
-
-[See here](https://cursor.com/features) for more info on Cursor's features.
